@@ -4,3 +4,4 @@ mediapipe
 scipy
 pyautogui
 keyboard
+    
